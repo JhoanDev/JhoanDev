@@ -1,13 +1,8 @@
 <h2 align="center"> 
 	developer in construction:rocket:
-</h2>
- <p>🤙 Hi, i'am Jhoan, always looking for learning and evolution<p>
+</h2>  
 
-<div>
-    <a href="https://github.com/JhoanDev">
-    <img height="180" alt="Jhoan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JhoanDev&show_icons=true&theme=tokyonight&card_width=380">
-    <img height="180" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanDev&layout=compact&theme=tokyonight&card_width=180">
-</div>
+## 🤙 Hi, i'am Jhoan, always looking for learning and evolution<p>
 	
 ### :bulb: technologies that I use
 	
@@ -20,7 +15,7 @@
   <img align="center" alt="Jhoan-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div></br>
 
-<h5>📫 How to contact me:<h5>
+### 📫 How to contact me:
 <a href="https://www.linkedin.com/in/jhoan-fernandes/">🔗 Linkedin</a>.<br/>
 <a href="https://github.com/JhoanDev">🔗 github</a>.<br/>
 <a href="mailto:jhoandev.log@gmail.com">📧 Jhoan Fernandes</a>.<br/>
