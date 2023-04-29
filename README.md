@@ -1,8 +1,8 @@
 <h2 align="center"> 
-	developer in construction:rocket:
+	Developer in construction:rocket:
 </h2>  
 
-## 🤙 Hi, i'am Jhoan, always looking for learning and evolution<p>
+### 🤙 Hi, i'am Jhoan, always looking for learning and evolution<p>
 	
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=JhoanDev&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
