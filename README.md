@@ -19,7 +19,7 @@
   <img align="center" alt="Jhoan-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div></br>
 
-### 📫 How to contact me:
+### 📫 How to contact me
 <a href="https://www.linkedin.com/in/jhoan-fernandes/">🔗 Linkedin</a>.<br/>
 <a href="https://github.com/JhoanDev">🔗 github</a>.<br/>
 <a href="mailto:jhoandev.log@gmail.com">📧 Jhoan Fernandes</a>.<br/>
