@@ -5,7 +5,8 @@
 ### 🤙 Hi, i'am Jhoan, always looking for learning and evolution<p>
 	
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=JhoanDev&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=JhoanDev&show_icons=true&hide_border=true&theme=midnight-purple" height="150" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=JhoanDev&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
 </div>
 	
 ### :bulb: technologies that I use
@@ -22,7 +23,3 @@
 <a href="https://www.linkedin.com/in/jhoan-fernandes/">🔗 Linkedin</a>.<br/>
 <a href="https://github.com/JhoanDev">🔗 github</a>.<br/>
 <a href="mailto:jhoandev.log@gmail.com">📧 Jhoan Fernandes</a>.<br/>
-<br/>
-	
-![Snake animation](https://github.com/brunopaiva1/brunopaiva1/blob/output/github-contribution-grid-snake.svg)
-</div>
