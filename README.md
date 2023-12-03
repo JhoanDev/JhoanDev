@@ -1,5 +1,5 @@
 <h2 align="center"> 
-	Developer in construction:rocket:
+	Developer in construction :rocket:
 </h2>  
 
 ### 🤙 Hi, i'am Jhoan, always looking for learning and evolution<p>
