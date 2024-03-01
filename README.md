@@ -6,7 +6,7 @@
 	
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=JhoanDev&show_icons=true&hide_border=true&theme=midnight-purple" height="160" whidth="200" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=JhoanDev&hide=jupyter%20notebook,tex" height="160" whidth="200" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=JhoanDev&hide=jupyter%20notebook,tex, html, css, makefile" height="160" whidth="200" alt="languages graph"/>
 </div>
 	
 ### :bulb: technologies that I use
