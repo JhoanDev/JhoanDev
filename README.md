@@ -17,9 +17,6 @@
     <img align="center" alt="Jhoan-CSharp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Postgrees" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Ubuntu" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"> &nbsp;
