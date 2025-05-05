@@ -14,13 +14,10 @@
 <div style="display: inline_block">
     <img align="center" alt="Jhoan-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-C++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-CSharp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Postgrees" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> &nbsp;
     <img align="center" alt="Jhoan-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-Ubuntu" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"> &nbsp;
-    <img align="center" alt="Jhoan-VS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"> &nbsp;
+    <img align="center" alt="Jhoan-Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"> &nbsp;
     <img align="center" alt="Jhoan-VSCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
