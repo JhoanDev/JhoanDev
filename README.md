@@ -13,15 +13,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JhoanDev&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="175" alt="Estatísticas do GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanDev&locale=en&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook,tex,html,css,makefile" height="175" alt="Linguagens mais usadas"/>
-</div>
-
----
-
 ### 📫 Contato
 
 <div style="display: flex; gap: 10px;">
