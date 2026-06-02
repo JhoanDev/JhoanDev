@@ -1,7 +1,7 @@
 <p align="center">
   <b>Olá! Sou Jhoan Fernandes 👋</b><br><br>
   Bacharel em <b>Tecnologia da Informação</b> e graduando em <b>Engenharia de Software (UFERSA)</b>,<br>
-  com forte base em Algoritmos, Estruturas de Dados e POO (3 anos de monitoria).<br>
+  com forte base em Algoritmos, Estruturas de Dados e POO.<br>
   Apaixonado por programação competitiva, programação de alto desempenho e nuvem.
 </p>
 
